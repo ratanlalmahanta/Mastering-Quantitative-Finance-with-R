@@ -1,0 +1,3 @@
+In this chapter we discuss some important concepts such as cointegration (structural), vector autoregressive models, impulse-response functions, 
+volatility modeling with asymmetric GARCH models, and event driven strategies.
+
