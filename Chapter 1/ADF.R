@@ -117,3 +117,4 @@ points(banknifty_trading_data$Date[banknifty_trading_data$Signal == "Buy"],
 points(banknifty_trading_data$Date[banknifty_trading_data$Signal == "Sell"], 
        banknifty_trading_data$Residuals[banknifty_trading_data$Signal == "Sell"], 
        col = "red", pch = 19)
+#END
