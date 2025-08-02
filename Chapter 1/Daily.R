@@ -1,4 +1,4 @@
-
+#Author: Ratanlal Mahanta
 library(IBrokers)
 setwd("/home/ubuntu/Dropbox/Algo-Desk/IB/src/Stock/daily")
 #setwd("D:/QuantIb/Data/1h")
