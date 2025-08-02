@@ -1,4 +1,5 @@
 # Install required packages (Run only if not already installed)
+# Add packages
 if (!require("tseries")) install.packages("tseries", dependencies = TRUE)
 if (!require("quantmod")) install.packages("quantmod", dependencies = TRUE)
 if (!require("forecast")) install.packages("forecast", dependencies = TRUE)
